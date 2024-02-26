@@ -1,7 +1,7 @@
 
 
 v align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Yusuf. I am a data professional.<b>
+<b>Hi, My name is Adam. I am an aspiring professional.<b>
 
 <p></p>
 <div align="center"> <h1 align="center" <di > :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
